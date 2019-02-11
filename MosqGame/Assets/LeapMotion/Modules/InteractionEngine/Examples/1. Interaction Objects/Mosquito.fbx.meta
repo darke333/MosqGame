@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 315edc63b93ca5b4ba8ebb6e24a09916
+timeCreated: 1520341940
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: Alien
+    100004: AlienHead
+    100006: AlienLArm1
+    100008: AlienLArm2
+    100010: AlienLArmCollarbone
+    100012: AlienLArmDigit11
+    100014: AlienLArmDigit12
+    100016: AlienLArmDigit13
+    100018: AlienLArmDigit21
+    100020: AlienLArmDigit22
+    100022: AlienLArmDigit23
+    100024: AlienLArmDigit31
+    100026: AlienLArmDigit32
+    100028: AlienLArmDigit33
+    100030: AlienLArmDigit41
+    100032: AlienLArmDigit42
+    100034: AlienLArmDigit43
+    100036: AlienLArmIKTarget
+    100038: AlienLArmPalm
+    100040: AlienLLeg1
+    100042: AlienLLeg2
+    100044: AlienPelvis
+    100046: AlienRArm1
+    100048: AlienRArm2
+    100050: AlienRArmCollarbone
+    100052: AlienRArmDigit11
+    100054: AlienRArmDigit12
+    100056: AlienRArmDigit13
+    100058: AlienRArmDigit21
+    100060: AlienRArmDigit22
+    100062: AlienRArmDigit23
+    100064: AlienRArmDigit31
+    100066: AlienRArmDigit32
+    100068: AlienRArmDigit33
+    100070: AlienRArmDigit41
+    100072: AlienRArmDigit42
+    100074: AlienRArmDigit43
+    100076: AlienRibcage
+    100078: AlienRibcageBone001
+    100080: AlienRibcageBone003
+    100082: AlienRLeg1
+    100084: AlienRLeg2
+    100086: AlienSpine1
+    100088: AlienSpine1 1
+    100090: AlienSpine2
+    100092: AlienSpine2 1
+    100094: AlienSpine3
+    100096: AlienSpine3 1
+    100098: AlienSpine4
+    100100: AlienSpine4 1
+    100102: AlienSpine5
+    100104: AlienSpine5 1
+    100106: AlienTail1
+    100108: AlienTail2
+    100110: AlienTail3
+    100112: AlienTail4
+    100114: AlienTail5
+    100116: //RootNode
+    100118: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    100120: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A \u0438 \u0448\u043F\u0440\u0438\u0446"
+    100122: "\u0428\u043F\u0440\u0438\u0446"
+    100124: "\u0428\u043F\u0440\u0438\u04461"
+    100126: "\u0428\u043F\u0440\u0438\u04462"
+    100128: "\u0428\u043F\u0440\u0438\u04463"
+    100130: "\u0428\u043F\u0440\u0438\u04464"
+    100132: "\u0428\u043F\u0440\u0438\u04465"
+    100134: "\u0428\u043F\u0440\u0438\u04466"
+    400000: ' 1'
+    400002: Alien
+    400004: AlienHead
+    400006: AlienLArm1
+    400008: AlienLArm2
+    400010: AlienLArmCollarbone
+    400012: AlienLArmDigit11
+    400014: AlienLArmDigit12
+    400016: AlienLArmDigit13
+    400018: AlienLArmDigit21
+    400020: AlienLArmDigit22
+    400022: AlienLArmDigit23
+    400024: AlienLArmDigit31
+    400026: AlienLArmDigit32
+    400028: AlienLArmDigit33
+    400030: AlienLArmDigit41
+    400032: AlienLArmDigit42
+    400034: AlienLArmDigit43
+    400036: AlienLArmIKTarget
+    400038: AlienLArmPalm
+    400040: AlienLLeg1
+    400042: AlienLLeg2
+    400044: AlienPelvis
+    400046: AlienRArm1
+    400048: AlienRArm2
+    400050: AlienRArmCollarbone
+    400052: AlienRArmDigit11
+    400054: AlienRArmDigit12
+    400056: AlienRArmDigit13
+    400058: AlienRArmDigit21
+    400060: AlienRArmDigit22
+    400062: AlienRArmDigit23
+    400064: AlienRArmDigit31
+    400066: AlienRArmDigit32
+    400068: AlienRArmDigit33
+    400070: AlienRArmDigit41
+    400072: AlienRArmDigit42
+    400074: AlienRArmDigit43
+    400076: AlienRibcage
+    400078: AlienRibcageBone001
+    400080: AlienRibcageBone003
+    400082: AlienRLeg1
+    400084: AlienRLeg2
+    400086: AlienSpine1
+    400088: AlienSpine1 1
+    400090: AlienSpine2
+    400092: AlienSpine2 1
+    400094: AlienSpine3
+    400096: AlienSpine3 1
+    400098: AlienSpine4
+    400100: AlienSpine4 1
+    400102: AlienSpine5
+    400104: AlienSpine5 1
+    400106: AlienTail1
+    400108: AlienTail2
+    400110: AlienTail3
+    400112: AlienTail4
+    400114: AlienTail5
+    400116: //RootNode
+    400118: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    400120: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A \u0438 \u0448\u043F\u0440\u0438\u0446"
+    400122: "\u0428\u043F\u0440\u0438\u0446"
+    400124: "\u0428\u043F\u0440\u0438\u04461"
+    400126: "\u0428\u043F\u0440\u0438\u04462"
+    400128: "\u0428\u043F\u0440\u0438\u04463"
+    400130: "\u0428\u043F\u0440\u0438\u04464"
+    400132: "\u0428\u043F\u0440\u0438\u04465"
+    400134: "\u0428\u043F\u0440\u0438\u04466"
+    2100000: "\u0424\u0443\u0442\u0431\u043E\u043B\u043A\u0430"
+    2100002: 'Material #2282'
+    2100004: 'Material #2259'
+    2100006: "\u0417\u0443\u0431\u044B"
+    2100008: 'Material #2260'
+    2100010: 'Material #2257'
+    2100012: "\u0413\u043B\u0430\u0437\u0438\u043A"
+    2100014: 'Material #2271'
+    2100016: "\u041A\u0440\u044B\u043B\u043E \u043A\u043E\u043C\u0430\u0440\u0430"
+    2100018: "\u041C\u0435\u0442\u0430\u043B\u043B"
+    2100020: 'Material #2278'
+    2100022: "\u041F\u043E\u0434\u043E\u0448\u0432\u0430 \u0442\u043E\u043D\u043A\u0430\u044F"
+    2300000: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    2300002: "\u0428\u043F\u0440\u0438\u04461"
+    2300004: "\u0428\u043F\u0440\u0438\u04462"
+    2300006: "\u0428\u043F\u0440\u0438\u04463"
+    2300008: "\u0428\u043F\u0440\u0438\u04464"
+    2300010: "\u0428\u043F\u0440\u0438\u04465"
+    2300012: "\u0428\u043F\u0440\u0438\u04466"
+    3300000: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    3300002: "\u0428\u043F\u0440\u0438\u04461"
+    3300004: "\u0428\u043F\u0440\u0438\u04462"
+    3300006: "\u0428\u043F\u0440\u0438\u04463"
+    3300008: "\u0428\u043F\u0440\u0438\u04464"
+    3300010: "\u0428\u043F\u0440\u0438\u04465"
+    3300012: "\u0428\u043F\u0440\u0438\u04466"
+    4300000: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    4300002: "\u0428\u043F\u0440\u0438\u04461"
+    4300004: "\u0428\u043F\u0440\u0438\u04462"
+    4300006: "\u0428\u043F\u0440\u0438\u04463"
+    4300008: "\u0428\u043F\u0440\u0438\u04464"
+    4300010: "\u0428\u043F\u0440\u0438\u04465"
+    4300012: "\u0428\u043F\u0440\u0438\u04466"
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

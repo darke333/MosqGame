@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 679e2775f17556b4ab333505a77ae1be
+timeCreated: 1522931535
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: Alien
+    100004: AlienHead
+    100006: AlienLArm1
+    100008: AlienLArm2
+    100010: AlienLArmCollarbone
+    100012: AlienLArmDigit11
+    100014: AlienLArmDigit12
+    100016: AlienLArmDigit13
+    100018: AlienLArmDigit21
+    100020: AlienLArmDigit22
+    100022: AlienLArmDigit23
+    100024: AlienLArmDigit31
+    100026: AlienLArmDigit32
+    100028: AlienLArmDigit33
+    100030: AlienLArmDigit41
+    100032: AlienLArmDigit42
+    100034: AlienLArmDigit43
+    100036: AlienLArmPalm
+    100038: AlienLLeg1
+    100040: AlienLLeg2
+    100042: AlienPelvis
+    100044: AlienRArm1
+    100046: AlienRArm2
+    100048: AlienRArmCollarbone
+    100050: AlienRArmDigit11
+    100052: AlienRArmDigit12
+    100054: AlienRArmDigit13
+    100056: AlienRArmDigit21
+    100058: AlienRArmDigit22
+    100060: AlienRArmDigit23
+    100062: AlienRArmDigit31
+    100064: AlienRArmDigit32
+    100066: AlienRArmDigit33
+    100068: AlienRArmDigit41
+    100070: AlienRArmDigit42
+    100072: AlienRArmDigit43
+    100074: AlienRibcage
+    100076: AlienRibcageBone001
+    100078: AlienRibcageBone003
+    100080: AlienRLeg1
+    100082: AlienRLeg2
+    100084: AlienSpine1
+    100086: AlienSpine1 1
+    100088: AlienSpine2
+    100090: AlienSpine2 1
+    100092: AlienSpine3
+    100094: AlienSpine3 1
+    100096: AlienSpine4
+    100098: AlienSpine4 1
+    100100: AlienSpine5
+    100102: AlienSpine5 1
+    100104: AlienTail1
+    100106: AlienTail2
+    100108: AlienTail3
+    100110: AlienTail4
+    100112: AlienTail5
+    100114: CATRigHub1
+    100116: CATRigHub2
+    100118: Character001
+    100120: Character002
+    100122: //RootNode
+    100124: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    100126: "\u041C\u0430\u0440\u043A\u0435\u0440"
+    100128: "\u0428\u043F\u0440\u0438\u0446"
+    400000: ' 1'
+    400002: Alien
+    400004: AlienHead
+    400006: AlienLArm1
+    400008: AlienLArm2
+    400010: AlienLArmCollarbone
+    400012: AlienLArmDigit11
+    400014: AlienLArmDigit12
+    400016: AlienLArmDigit13
+    400018: AlienLArmDigit21
+    400020: AlienLArmDigit22
+    400022: AlienLArmDigit23
+    400024: AlienLArmDigit31
+    400026: AlienLArmDigit32
+    400028: AlienLArmDigit33
+    400030: AlienLArmDigit41
+    400032: AlienLArmDigit42
+    400034: AlienLArmDigit43
+    400036: AlienLArmPalm
+    400038: AlienLLeg1
+    400040: AlienLLeg2
+    400042: AlienPelvis
+    400044: AlienRArm1
+    400046: AlienRArm2
+    400048: AlienRArmCollarbone
+    400050: AlienRArmDigit11
+    400052: AlienRArmDigit12
+    400054: AlienRArmDigit13
+    400056: AlienRArmDigit21
+    400058: AlienRArmDigit22
+    400060: AlienRArmDigit23
+    400062: AlienRArmDigit31
+    400064: AlienRArmDigit32
+    400066: AlienRArmDigit33
+    400068: AlienRArmDigit41
+    400070: AlienRArmDigit42
+    400072: AlienRArmDigit43
+    400074: AlienRibcage
+    400076: AlienRibcageBone001
+    400078: AlienRibcageBone003
+    400080: AlienRLeg1
+    400082: AlienRLeg2
+    400084: AlienSpine1
+    400086: AlienSpine1 1
+    400088: AlienSpine2
+    400090: AlienSpine2 1
+    400092: AlienSpine3
+    400094: AlienSpine3 1
+    400096: AlienSpine4
+    400098: AlienSpine4 1
+    400100: AlienSpine5
+    400102: AlienSpine5 1
+    400104: AlienTail1
+    400106: AlienTail2
+    400108: AlienTail3
+    400110: AlienTail4
+    400112: AlienTail5
+    400114: CATRigHub1
+    400116: CATRigHub2
+    400118: Character001
+    400120: Character002
+    400122: //RootNode
+    400124: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    400126: "\u041C\u0430\u0440\u043A\u0435\u0440"
+    400128: "\u0428\u043F\u0440\u0438\u0446"
+    2100000: 'Material #3083'
+    2100002: "\u0417\u0443\u0431\u044B"
+    2100004: 'Material #2572'
+    2100006: 'Material #2946'
+    2100008: 'Material #2882'
+    2100010: "\u041A\u0440\u044B\u043B\u043E \u043A\u043E\u043C\u0430\u0440\u0430"
+    2100012: 'Material #2282'
+    2100014: 'Material #3081'
+    2100016: 'Material #3084'
+    2100018: 'Material #178'
+    2100020: "\u0413\u043B\u0430\u0437\u0438\u043A"
+    2100022: "\u041C\u0435\u0442\u0430\u043B\u043B"
+    2100024: 'Material #2407'
+    2100026: 'Material #77'
+    2100028: 'Material #30'
+    2100030: 'Material #179'
+    2100032: 'Material #328'
+    2100034: 'Material #29'
+    4300000: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    4300002: "\u0428\u043F\u0440\u0438\u0446"
+    4300004: "\u041C\u0430\u0440\u043A\u0435\u0440"
+    7400000: FlyRange
+    7400002: AttackRange
+    7400004: OhRange
+    7400006: ConToMelee
+    7400008: FlyMelee
+    7400010: OhMelee
+    7400012: AttackMelee
+    7400014: HardFly
+    9500000: //RootNode
+    13700000: "\u041A\u043E\u043C\u0430\u0440\u0438\u043A"
+    13700002: "\u041C\u0430\u0440\u043A\u0435\u0440"
+    13700004: "\u0428\u043F\u0440\u0438\u0446"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FlyRange
+      takeName: FlyRange
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRange
+      takeName: AttackRange
+      firstFrame: 60
+      lastFrame: 128
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: OhRange
+      takeName: OhRange
+      firstFrame: 131
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ConToMelee
+      takeName: ConToMelee
+      firstFrame: 177
+      lastFrame: 237
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlyMelee
+      takeName: FlyMelee
+      firstFrame: 238
+      lastFrame: 297
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: OhMelee
+      takeName: OhMelee
+      firstFrame: 298
+      lastFrame: 342
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackMelee
+      takeName: AttackMelee
+      firstFrame: 346
+      lastFrame: 492
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HardFly
+      takeName: HardFly
+      firstFrame: 495
+      lastFrame: 555
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
