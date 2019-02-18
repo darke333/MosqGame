@@ -96,6 +96,10 @@ public class StarMenu : MonoBehaviour {
         {
             gameObject.SendMessage("ResetGamevoid");
         }
+        if (Input.GetKeyDown(KeyCode.F4))
+        {
+            Easy();
+        }
     }
 
     public void Spawn()

@@ -6,7 +6,7 @@ public class Bezier : MonoBehaviour {
 
     //public LineRenderer lineRenderer;
     //public Transform point1, point2, point3, point4;
-    public Transform[] controlPoints;
+    public Transform[] controlPoints = new Transform[7];
     public Transform Enemy;
     //private int numPos = 25;
     public Vector3[] positions = new Vector3[100];
@@ -32,7 +32,14 @@ public class Bezier : MonoBehaviour {
         }
         //lineRenderer.positionCount = SEGMENT_COUNT;
         lineRenderer.sortingLayerID = layerOrder;*/
-        
+        /*controlPoints[0] = gameObject.transform.Find("pos 1").transform;
+        controlPoints[1] = gameObject.transform.Find("pos 2").transform; 
+        controlPoints[2] = gameObject.transform.Find("pos 3").transform; 
+        controlPoints[3] = gameObject.transform.Find("pos 4").transform; 
+        controlPoints[4] = gameObject.transform.Find("pos 5").transform; 
+        controlPoints[5] = gameObject.transform.Find("pos 6").transform; 
+        controlPoints[6] = gameObject.transform.Find("pos 7").transform; */
+        Enemy = gameObject.transform.Find("MovingSphere");
         BiteArea = GameObject.Find("BiteAreaBorder");
         curveCount = (int)controlPoints.Length / 3;
         i = 0;
