@@ -17,10 +17,7 @@
 
 ## Скриншоты
 
-
-![alt text](https://github.com/[darke333]/[MosqGame]/blob/[master]/MosqGame2.png?raw=true)
-
-![alt text](https://raw.githubusercontent.com/darke333/MosqGame/master/MosqGame2.png?raw=true)
+![alt text](https://github.com/darke333/MosqGame/blob/master/MosqGame%20%202.png)
 
 ![alt text](https://github.com/darke333/MosqGame/blob/master/MosqGame%201.png)
 
