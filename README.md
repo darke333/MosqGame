@@ -24,5 +24,5 @@
 ## Видео:
 
 
-[Видео геймплея](https://docs.unity3d.com/Manual/index.html)  
+[Видео геймплея](https://www.youtube.com/watch?v=eQh7gIjKSPE&t=10s)  
 
